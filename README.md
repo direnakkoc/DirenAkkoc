@@ -8,9 +8,7 @@ I'm Diren, currently living in Ireland <img src="https://hatscripts.github.io/ci
 
 - Via [LinkedIn](https://www.linkedin.com/in/direnakkocdemir)
 
-- Via [GMAIL](drnakkoc94@gmail.com)
-
-## My mostly interest in  👩🏻‍💻 :cloud:
+## My interest in  👩🏻‍💻 :cloud:
 
 <code><img height="50" src="https://www.vectorlogo.zone/logos/serverless/serverless-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></code>
