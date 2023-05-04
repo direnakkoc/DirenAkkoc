@@ -15,6 +15,6 @@ I'm Diren, currently living in Ireland <img src="https://hatscripts.github.io/ci
 <code><img height="50" src="https://www.vectorlogo.zone/logos/python/python-horizontal.svg"></code>
 
 
-[![GitHub followers](https://img.shields.io/github/followers/direnakkocdemir?style=social)](https://github.com/direnakkocdemir?tab=followers)
-![GitHub stars](https://img.shields.io/github/stars/direnakkocdemir?style=social)
-[![Github visitors](https://visitor-badge.glitch.me/badge?page_id=direnakkocdemir.visitor-badge)](https://GitHub.com/direnakkocdemir/StrapDown.js/stargazers/)
+[![GitHub followers](https://img.shields.io/github/followers/direnakkoc?style=social)](https://github.com/direnakkoc?tab=followers)
+![GitHub stars](https://img.shields.io/github/stars/direnakkoc?style=social)
+[![Github visitors](https://visitor-badge.glitch.me/badge?page_id=direnakkoc.visitor-badge)](https://GitHub.com/direnakkoc/StrapDown.js/stargazers/)
