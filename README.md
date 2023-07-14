@@ -6,7 +6,7 @@ I'm Diren, currently living in Ireland <img src="https://hatscripts.github.io/ci
 
 ## Where to find me :point_down:
 
-- [LinkedIn](https://www.linkedin.com/in/direnakkocdemir)
+- [LinkedIn](https://www.linkedin.com/in/direnakkoc)
 - [Twitter](https://twitter.com/AkkocDiren)
 
 ## My interest in  👩🏻‍💻 :cloud:
