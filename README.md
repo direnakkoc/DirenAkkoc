@@ -1,8 +1,5 @@
 ## Hi there, nice to see you. :wave:
 
-Welcome to my GitHub.
-I'm Diren, currently living in Ireland <img src="https://hatscripts.github.io/circle-flags/flags/ie.svg" width="20">.
-
 
 ## Where to find me :point_down:
 
